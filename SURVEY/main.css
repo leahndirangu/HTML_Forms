@@ -1,0 +1,23 @@
+header{
+	text-align: center;
+}
+
+body{
+	background: #FFF8DC;
+}
+
+.main{
+	margin: 0 auto;
+	align:center;
+	width:400px;
+	min-height:300px;
+	padding:30px;
+	color: black;
+	background-color: #ffffff;
+
+}
+button{
+	background-color: green;
+	height: 40px;	
+}
+
